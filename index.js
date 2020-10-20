@@ -16,6 +16,8 @@ var showHelp = false;
 const validExtensions = [
     ".acm",
     ".zxc",
+    ".dvd",
+    ".sks",
     ".hc"
 ];
 //splash
